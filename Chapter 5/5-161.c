@@ -20,7 +20,7 @@ int main() {
 	if(d == x) {
 		printf("Khong tim thay gia tri nam trong doan [%d, %d]. \n", x, y);
 	} else {
-		printf("Gia tri dau tien nam trong doan [%d, %d] la: %d", x, y, d);
+		printf("Gia tri dau tien nam trong doan [%d, %d] la: %d \n", x, y, d);
 	}
 }
 
